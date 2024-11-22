@@ -1,0 +1,6 @@
+h1{
+    color: red;
+}
+.box ,.row ,.col,.col-2,.col-6,.col-4{
+    border: 1px solid green;
+}
